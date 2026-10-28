@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=IListaLigadaSimples
+comment0.text=\r\n\ Metodos\ a\ serem\ implementados\ numa\ Lista\ Ligada\ Simples.\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 14/05/2026\r\n
+comment1.params=
+comment1.target=boolean\ estaVazia()
+comment2.params=elem
+comment2.target=void\ inserirInicio(java.lang.Object)
+comment3.params=elem
+comment3.target=void\ inserirFim(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ removerInicio()
+comment5.params=
+comment5.target=java.lang.Object\ removerFim()
+numComments=6

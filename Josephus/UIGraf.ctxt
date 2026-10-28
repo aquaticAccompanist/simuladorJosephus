@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=UIGraf
+comment0.text=\r\n\ Implementa\ o\ ambiente\ gr\u00E1fico\ para\ o\ Josephus\r\n
+comment1.params=
+comment1.target=int[]\ dadosGrid()
+comment1.text=\r\n\ pergunta\ os\ dados\ que\ o\ usuario\ quer\ usar\ para\ simulacao\r\n\ @return\ \ \ os\ valores\ de\ quantidade,\ intervalo\ e\ espera\ em\ um\ array\r\n
+comment2.params=jogo
+comment2.target=void\ GRID(jogoJoseph)
+comment2.text=\r\n\ constroi\ o\ grid\ do\ jogo\r\n\ @param\ \ jogo\ -\ informacoes\ centrais\ do\ jogojoseph\r\n
+comment3.params=jogo
+comment3.target=void\ executarSimulacao(jogoJoseph)
+comment3.text=\r\n\ executa\ a\ simula\u00E7\u00E3o\ no\ grid\ construido\r\n\ @param\ \ jogo\ -\ informacoes\ centrais\ do\ jogojoseph\r\n
+comment4.params=
+comment4.target=java.lang.Void\ doInBackground()
+comment5.params=chunks
+comment5.target=void\ process(java.util.List)
+comment6.params=
+comment6.target=UIGraf.State\ Pergunta()
+comment6.text=\r\n\ Mostra\ o\ menu\ principal\ com\ opcoes\ usando\ joptionpane\r\n\ @return\ State.values()[option]\ -\ opcao\ escolhida\ no\ menu\r\n
+comment7.params=
+comment7.target=void\ primeiraMensagem()
+numComments=8

@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=ListaLigadaSimplesCircular
+comment0.text=\r\n\ Lista\ Ligada\ Simples\ Circular\ Gen\u00E9rica\r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 1.0\ 2026/05/14\r\n
+comment1.params=
+comment1.target=ListaLigadaSimplesCircular()
+comment1.text=\r\n\ Construtor\r\n
+comment10.params=elem
+comment10.target=void\ inserirFim(java.lang.Object)
+comment11.params=
+comment11.target=java.lang.Object\ removerInicio()
+comment12.params=
+comment12.target=java.lang.Object\ removerFim()
+comment13.params=
+comment13.target=java.lang.String\ toString()
+comment13.text=\r\n\ Representa\u00E7\u00E3o\ da\ lista\r\n
+comment2.params=
+comment2.target=ListaLigadaSimplesCircular.No\ getInicio()
+comment2.text=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\ GETTERS\ /\ SETTERS\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=
+comment3.params=
+comment3.target=ListaLigadaSimplesCircular.No\ getFim()
+comment4.params=
+comment4.target=int\ getQtdNos()
+comment5.params=inicio
+comment5.target=void\ setInicio(ListaLigadaSimplesCircular.No)
+comment6.params=fim
+comment6.target=void\ setFim(ListaLigadaSimplesCircular.No)
+comment7.params=qtdNos
+comment7.target=void\ setQtdNos(int)
+comment8.params=
+comment8.target=boolean\ estaVazia()
+comment8.text=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\ M\u00C9TODOS\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=
+comment9.params=elem
+comment9.target=void\ inserirInicio(java.lang.Object)
+numComments=14
